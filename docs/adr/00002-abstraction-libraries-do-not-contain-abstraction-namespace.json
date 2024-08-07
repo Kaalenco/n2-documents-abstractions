@@ -1,0 +1,10 @@
+{
+  "DateTime": "2024-08-07T00:00:00+02:00",
+  "FileName": "00002-abstraction-libraries-do-not-contain-abstraction-namespace",
+  "RecordId": 2,
+  "Status": "Accepted",
+  "TemplateType": "Ad",
+  "Title": "Abstraction libraries do not contain abstraction namespace",
+  "Context": "An abstraction library contains interface and class definitions that are used for data sharing and class interaction. When implementing classes or methods, it\u0027s interface or DTO-classes should be in the same namespace definition.",
+  "References": {}
+}

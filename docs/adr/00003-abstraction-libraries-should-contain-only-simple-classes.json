@@ -1,0 +1,10 @@
+{
+  "DateTime": "2024-08-07T00:00:00+02:00",
+  "FileName": "00003-abstraction-libraries-should-contain-only-simple-classes",
+  "RecordId": 3,
+  "Status": "Accepted",
+  "TemplateType": "Ad",
+  "Title": "Abstraction libraries should contain only simple classes",
+  "Context": "An abstraction library contains interface and class definitions that are used for data sharing and class interaction. The main reason to define an abstraction class is to simplify testing and to seperate functionality from interfacing.",
+  "References": {}
+}
